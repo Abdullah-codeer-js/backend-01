@@ -1,0 +1,56 @@
+[
+  {
+    "userId": "user001",
+    "language": "EN",
+    "notificationsEnabled": true,
+    "timezone": "Asia/Karachi",
+    "createdAt": "2026-09-29T06:55:16.914Z",
+    "updatedAt": "2026-09-29T06:55:16.914Z"
+  },
+  {
+    "userId": "user002",
+    "language": "UR",
+    "notificationsEnabled": false,
+    "timezone": "Asia/Karachi",
+    "createdAt": "2026-09-21T11:30:00.000Z",
+    "updatedAt": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "userId": "user003",
+    "language": "EN",
+    "notificationsEnabled": true,
+    "timezone": "America/New_York",
+    "createdAt": "2026-09-22T08:15:00.000Z",
+    "updatedAt": "2026-09-22T08:15:00.000Z"
+  },
+  {
+    "userId": "user004",
+    "language": "EN",
+    "createdAt": "2026-09-29T07:08:14.718Z",
+    "updatedAt": "2026-09-29T07:32:55.213Z"
+  },
+  {
+    "userId": "user005",
+    "language": "UR",
+    "notificationsEnabled": true,
+    "timezone": "Asia/Karachi",
+    "createdAt": "2026-09-29T07:09:39.063Z",
+    "updatedAt": "2026-09-29T07:09:39.063Z"
+  },
+  {
+    "userId": "user0005",
+    "language": "UR",
+    "notificationsEnabled": true,
+    "timezone": "Asia/Karachi",
+    "createdAt": "2026-09-29T07:27:48.869Z",
+    "updatedAt": "2026-09-29T07:27:48.869Z"
+  },
+  {
+    "userId": "user00505",
+    "language": "UR",
+    "notificationsEnabled": false,
+    "timezone": "Asia/Karachi",
+    "createdAt": "2026-09-29T07:31:46.351Z",
+    "updatedAt": "2026-09-29T07:31:46.351Z"
+  }
+]
